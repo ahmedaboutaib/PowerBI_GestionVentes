@@ -1,8 +1,7 @@
 # Gestion des Ventes par Power BI 📈📊
 
 <img src="https://github.com/ahmedaboutaib/PowerBI_GestionVentes/blob/main/RH.png" width="300" align="right" />
-<img src="https://github.com/ahmedaboutaib/PowerBI_GestionVentes/blob/main/service.png" width="300" align="right" />
-<img src="https://github.com/ahmedaboutaib/PowerBI_GestionVentes/blob/main/vente.png" width="300" align="right" />
+
 
 Dans le cadre de ce projet de gestion des ventes, les données sont analysées de manière dynamique et visualisées via Power BI. Le système de gestion des ventes est structuré autour de trois tableaux principaux : RH, services, et ventes. Les différents graphes de visualisation permettent d'explorer en détail les aspects suivants :
 
@@ -21,3 +20,5 @@ Dans le cadre de ce projet de gestion des ventes, les données sont analysées d
 - **Somme de Chiffre d'Affaires par Service :** Agrégation des chiffres d'affaires en fonction de chaque service.
 
 ... et bien d'autres analyses pertinentes. Les résultats de cette exploration sont présentés de manière claire et informative pour faciliter la prise de décision dans le domaine de la gestion des ventes.
+<img src="https://github.com/ahmedaboutaib/PowerBI_GestionVentes/blob/main/service.png" width="300" align="right" />
+<img src="https://github.com/ahmedaboutaib/PowerBI_GestionVentes/blob/main/vente.png" width="300" align="right" />
